@@ -1,4 +1,4 @@
-package _01_prime_or_not;
+package _02_fibonacci;
 
 public class fibonacci {
 
